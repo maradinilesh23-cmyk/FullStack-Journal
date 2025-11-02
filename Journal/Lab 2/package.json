@@ -1,0 +1,10 @@
+{
+  "name": "lab2-node-modules",
+  "version": "1.0.0",
+  "description": "Lab 2 - Node Modules, Dependencies, and Functionality",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
